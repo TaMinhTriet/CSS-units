@@ -1,11 +1,37 @@
 h1 {
   font-size: 100px;
   width: 500px;
-  height: 100px;
   background-color: blue;
 }
 
 p {
   width: 50%;
   background-color: yellow;
+}
+
+body {
+  background-color: pink;
+  height: 400px;
+}
+
+.box {
+  background-color: orange;
+  width: 50%;
+  height: 50%;
+}
+
+.con {
+  width: 50%;
+  height: 50%;
+}
+
+.box2 {
+  font-size: 60px;
+}
+
+.line1 {
+  font-size: 50%;
+}
+.line2 {
+  font-size: 30%;
 }
