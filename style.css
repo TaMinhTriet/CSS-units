@@ -35,3 +35,26 @@ body {
 .line2 {
   font-size: 30%;
 }
+
+.parent {
+  width: 80vw;
+  height: 80vh;
+  background-color: green;
+}
+
+.child {
+  width: 50vw;
+  height: 50vh;
+  background-color: greenyellow;
+}
+
+.parent-em {
+  font-size: 5px;
+}
+
+.child-em {
+  font-size: 2em;
+  width: 2em;
+  height: 2em;
+  background-color: blueviolet;
+}
